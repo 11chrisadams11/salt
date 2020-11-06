@@ -1,17 +1,12 @@
-# -*- coding: utf-8 -*-
 """
 Compatibility functions for utils
 """
-
-# Import python libs
-from __future__ import absolute_import, print_function, unicode_literals
 
 import copy
 import importlib
 import sys
 import types
 
-# Import salt libs
 import salt.loader
 
 
